@@ -26,6 +26,7 @@
 double Sollwert = 325;
 double Istwert = 20;
 double Output = 0;
+int Hallo = "Hallo Welt";
 double aktuelleTemperatur = 0;
 // Definiere die Reglerbeiwerte
 //double Kp=2, Ki=5, Kd=1;
